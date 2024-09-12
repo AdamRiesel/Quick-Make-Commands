@@ -5,3 +5,4 @@ This has some quick and easy ways to make c++ and ros projects build
 1. Git clone to anywhere you like
 2. Copy or move the `.sh` file into your home directory
 3. Source the '`.sh` file in `~/.bashrc`
+4. Open a new terminal and type `fmake -h` or `fmake --help` to learn the usage
