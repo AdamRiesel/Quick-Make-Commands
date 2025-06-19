@@ -1,5 +1,6 @@
 # Quick-Make-Commands
-This has some quick and easy ways to make c++ and ros projects build
+This has some quick and easy ways to make c++ and ros projects build. 
+Primarily useful for MTRX3760 Mechatronic Systems Design
 
 ## Usage
 1. Git clone to anywhere you like
